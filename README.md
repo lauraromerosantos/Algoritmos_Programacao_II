@@ -13,7 +13,7 @@ Repositório destinado aos exemplos realizados durante as aulas de Algoritmos e 
 	• É constituída por elementos que possuem uma estrutura composta de valor e endereço do elemento anterior e do próximo elemento.
 	• Se estivermos no primeiro elemento da lista, o campo para o endereço do elemento anterior terá como valor: NULL
 	• Se estivermos no último elemento da lista, o campo para o endereço do próximo elemento terá como valor: NULL
-Link para o exercício da aula 03: [Exercício 03](https://github.com/lauraromerosantos/Exercicio03_Algoritmos_Programacao_II) 
+Link para o exercício da aula 03: [Exercício 03 - Clique aqui](https://github.com/lauraromerosantos/Exercicio03_Algoritmos_Programacao_II) 
 ## Aula 04 - Fila
 
 _FIFO: First In, First Out_
@@ -33,3 +33,4 @@ _LIFO: Last In, First Out_
         • Exclusões de elementos são realizadas no top da pila
         • Semelhante à uma pilha de objetos, o último elemento a entrar na pilha, será o primeiro também a sair da pilha.
         • É necessário saber qual elemento está no topo da pilha
+Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.com/lauraromerosantos/Exercicio05_Algoritmos_Programacao_II) 
