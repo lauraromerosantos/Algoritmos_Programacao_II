@@ -28,9 +28,9 @@ _FIFO: First In, First Out_
 
 _LIFO: Last In, First Out_
 
-        • Estrutura de dados linear
-        • Inserções de elementos são realizadas no top da pilha
-        • Exclusões de elementos são realizadas no top da pila
-        • Semelhante à uma pilha de objetos, o último elemento a entrar na pilha, será o primeiro também a sair da pilha.
-        • É necessário saber qual elemento está no topo da pilha
+    • Estrutura de dados linear
+    • Inserções de elementos são realizadas no top da pilha
+    • Exclusões de elementos são realizadas no top da pila
+    • Semelhante à uma pilha de objetos, o último elemento a entrar na pilha, será o primeiro também a sair da pilha.
+    • É necessário saber qual elemento está no topo da pilha
 Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.com/lauraromerosantos/Exercicio05_Algoritmos_Programacao_II) 
