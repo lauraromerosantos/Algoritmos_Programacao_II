@@ -34,3 +34,11 @@ _LIFO: Last In, First Out_
     • Semelhante à uma pilha de objetos, o último elemento a entrar na pilha, será o primeiro também a sair da pilha.
     • É necessário saber qual elemento está no topo da pilha
 Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.com/lauraromerosantos/Exercicio05_Algoritmos_Programacao_II) 
+
+## Aula 06 - Tuplas e Dicionários
+
+	• Uma tupla é uma coleção que é ordenada e imutável.
+	• Tuplas em Python são escritas com parênteses. A partir do Python 3, não precisa de parênteses.
+	• Um dicionário é uma coleção que é desordenada, mutável e indexada.
+	• Em Python, dicionários são escritos com chaves, e sua estrutura é composta por:
+	{ “key” : “value” }
