@@ -43,3 +43,54 @@ Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.
 	• Em Python, dicionários são escritos com chaves, e sua estrutura é composta por:
 	{ “key” : “value” }
 Link para o exercício da aula 06: [Exercício 06 - Clique aqui](https://github.com/lauraromerosantos/Exercicio06_Algoritmos_Programacao_II) 
+
+## Aula 07 - Orientação a Objetos
+
+_CLASSE_
+
+	• Representam um conjunto de objetos que compartilham características e comportamentos comuns.
+	• As classes definem como os objetos devem se parecer e se comportar, ou seja, define as características e funcionalidades
+	• Uma classe possui atributos (características) e métodos (funções/ações)
+
+_OBJETO_
+
+	• Um objeto é uma entidade que exibe algum comportamento bem definido.
+	• OBJETO = DADOS + OPERAÇÕES
+	• Características: dados representam características
+		• São chamados atributos
+		• São as variáveis do objeto.
+	• Comportamento: operações definem comportamento
+		• São os métodos de um objeto
+		• São as funções que são executadas por um objeto
+		
+### Propriedades
+	• Estado
+		• Representado pelos valores dos atributos de um objeto
+	• Comportamento
+		• Definido pelo conjunto de métodos do objeto
+		• Estado representa o resultado cumulativo de seu comportamento
+	• Identidade
+		• Um objeto é único, mesmo que o seu estado seja idêntico ao de outro
+	• Os valores dos DADOS são modificados a partir das OPERAÇÕES sobre estes dados 
+	
+_ATRIBUTO_
+
+	• Características dos objetos de uma classe, também são conhecidos como variáveis ou campos
+	• Essas propriedades definem o estado de um objeto, fazendo com que esses valores possam sofrer alterações
+
+_MÉTODO_
+
+	• São ações ou procedimentos, onde podem interagir e se comunicarem com outros objetos. 
+	A execução dessas ações se dá através de mensagens, tendo como função o envio de uma solicitação ao objeto para que seja efetuada a rotina desejada.
+	
+### RESUMINDO
+
+	• Objeto
+		• Qualquer entidade que possui características e comportamento
+	• Classe
+		• Descreve um tipo de objeto
+		• Define atributos e métodos
+	• Atributo
+		• Define características do objeto
+	• Método
+		• Operações que o objeto pode realizar 
