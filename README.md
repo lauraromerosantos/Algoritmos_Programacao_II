@@ -42,3 +42,4 @@ Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.
 	• Um dicionário é uma coleção que é desordenada, mutável e indexada.
 	• Em Python, dicionários são escritos com chaves, e sua estrutura é composta por:
 	{ “key” : “value” }
+Link para o exercício da aula 06: [Exercício 06 - Clique aqui](https://github.com/lauraromerosantos/Exercicio06_Algoritmos_Programacao_II) 
