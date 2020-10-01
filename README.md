@@ -57,20 +57,20 @@ _OBJETO_
 	• Um objeto é uma entidade que exibe algum comportamento bem definido.
 	• OBJETO = DADOS + OPERAÇÕES
 	• Características: dados representam características
-		• São chamados atributos
-		• São as variáveis do objeto.
+		- São chamados atributos
+		- São as variáveis do objeto.
 	• Comportamento: operações definem comportamento
-		• São os métodos de um objeto
-		• São as funções que são executadas por um objeto
+		- São os métodos de um objeto
+		- São as funções que são executadas por um objeto
 		
 ### Propriedades
 	• Estado
-		• Representado pelos valores dos atributos de um objeto
+		- Representado pelos valores dos atributos de um objeto
 	• Comportamento
-		• Definido pelo conjunto de métodos do objeto
-		• Estado representa o resultado cumulativo de seu comportamento
+		- Definido pelo conjunto de métodos do objeto
+		- Estado representa o resultado cumulativo de seu comportamento
 	• Identidade
-		• Um objeto é único, mesmo que o seu estado seja idêntico ao de outro
+		- Um objeto é único, mesmo que o seu estado seja idêntico ao de outro
 	• Os valores dos DADOS são modificados a partir das OPERAÇÕES sobre estes dados 
 	
 _ATRIBUTO_
@@ -86,11 +86,11 @@ _MÉTODO_
 ### RESUMINDO
 
 	• Objeto
-		• Qualquer entidade que possui características e comportamento
+		- Qualquer entidade que possui características e comportamento
 	• Classe
-		• Descreve um tipo de objeto
-		• Define atributos e métodos
+		- Descreve um tipo de objeto
+		- Define atributos e métodos
 	• Atributo
-		• Define características do objeto
+		- Define características do objeto
 	• Método
-		• Operações que o objeto pode realizar 
+		- Operações que o objeto pode realizar 
