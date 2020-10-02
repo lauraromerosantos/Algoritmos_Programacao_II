@@ -94,3 +94,5 @@ _MÉTODO_
 		- Define características do objeto
 	• Método
 		- Operações que o objeto pode realizar 
+		
+Link para o exercício da aula 07: [Exercício 07 - Clique aqui](https://github.com/lauraromerosantos/Exercicio07_Algoritmos_Programacao_II)
