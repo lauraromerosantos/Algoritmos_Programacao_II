@@ -96,3 +96,11 @@ _MÉTODO_
 		- Operações que o objeto pode realizar 
 		
 Link para o exercício da aula 07: [Exercício 07 - Clique aqui](https://github.com/lauraromerosantos/Exercicio07_Algoritmos_Programacao_II)
+
+## Aula 08 - Herança
+	• Herança nos permite definir uma classe que herda todos os atributos e métodos de outra classe.
+	• Classe pai (Super Class) é a classe que está sendo herdada também chamada de classe base ou classe genérica.
+	• Classe filha (Sub Class) é a classe que herda de outra classe, também chamada de classe derivada ou classe especializada.
+	• A herança é um princípio da POO que permite a criação de novas classes a partir de outras previamente criadas.
+	• Essas novas classes são chamadas de subclasses, ou classes derivadas; e as classes já existentes, que deram origem às subclasses, são chamadas de superclasses, ou classes base.
+	• Uma subclasse herda métodos e atributos de sua superclasse; apesar disso, pode escrevê-los novamente para uma forma mais específica de representar o comportamento do método herdado.
