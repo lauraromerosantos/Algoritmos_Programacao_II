@@ -13,7 +13,7 @@ Repositório destinado aos exemplos realizados durante as aulas de Algoritmos e 
 	• É constituída por elementos que possuem uma estrutura composta de valor e endereço do elemento anterior e do próximo elemento.
 	• Se estivermos no primeiro elemento da lista, o campo para o endereço do elemento anterior terá como valor: NULL
 	• Se estivermos no último elemento da lista, o campo para o endereço do próximo elemento terá como valor: NULL
-Link para o exercício da aula 03: [Exercício 03 - Clique aqui](https://github.com/lauraromerosantos/Exercicio03_Algoritmos_Programacao_II) 
+🎯 Link para o exercício da aula 03: [Exercício 03 - Clique aqui](https://github.com/lauraromerosantos/Exercicio03_Algoritmos_Programacao_II) 
 ## Aula 04 - Fila
 
 _FIFO: First In, First Out_
@@ -33,7 +33,7 @@ _LIFO: Last In, First Out_
     • Exclusões de elementos são realizadas no top da pila
     • Semelhante à uma pilha de objetos, o último elemento a entrar na pilha, será o primeiro também a sair da pilha.
     • É necessário saber qual elemento está no topo da pilha
-Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.com/lauraromerosantos/Exercicio05_Algoritmos_Programacao_II) 
+🎯 Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.com/lauraromerosantos/Exercicio05_Algoritmos_Programacao_II) 
 
 ## Aula 06 - Tuplas e Dicionários
 
@@ -42,7 +42,7 @@ Link para o exercício da aula 05: [Exercício 05 - Clique aqui](https://github.
 	• Um dicionário é uma coleção que é desordenada, mutável e indexada.
 	• Em Python, dicionários são escritos com chaves, e sua estrutura é composta por:
 	{ “key” : “value” }
-Link para o exercício da aula 06: [Exercício 06 - Clique aqui](https://github.com/lauraromerosantos/Exercicio06_Algoritmos_Programacao_II) 
+🎯 Link para o exercício da aula 06: [Exercício 06 - Clique aqui](https://github.com/lauraromerosantos/Exercicio06_Algoritmos_Programacao_II) 
 
 ## Aula 07 - Orientação a Objetos
 
@@ -95,7 +95,7 @@ _MÉTODO_
 	• Método
 		- Operações que o objeto pode realizar 
 		
-Link para o exercício da aula 07: [Exercício 07 - Clique aqui](https://github.com/lauraromerosantos/Exercicio07_Algoritmos_Programacao_II)
+🎯 Link para o exercício da aula 07: [Exercício 07 - Clique aqui](https://github.com/lauraromerosantos/Exercicio07_Algoritmos_Programacao_II)
 
 ## Aula 08 - Herança
 	• Herança nos permite definir uma classe que herda todos os atributos e métodos de outra classe.
@@ -104,3 +104,5 @@ Link para o exercício da aula 07: [Exercício 07 - Clique aqui](https://github.
 	• A herança é um princípio da POO que permite a criação de novas classes a partir de outras previamente criadas.
 	• Essas novas classes são chamadas de subclasses, ou classes derivadas; e as classes já existentes, que deram origem às subclasses, são chamadas de superclasses, ou classes base.
 	• Uma subclasse herda métodos e atributos de sua superclasse; apesar disso, pode escrevê-los novamente para uma forma mais específica de representar o comportamento do método herdado.
+	
+🎯 Link para o exercício da aula 08: [Exercício 08 - Clique aqui](https://github.com/lauraromerosantos/Exercicio08_Algoritmos_Programacao_II)
