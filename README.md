@@ -134,3 +134,12 @@ _SETTERS_
 	▷ Nomeamos um método acessor com set toda vez que este método for modificar algum campo ou atributo de uma classe, ou seja, se não criarmos um método acessor set para algum atributo, isso quer dizer que este atributo não deve ser modificado.
 
 🎯 Link para o exercício da aula 09: [Exercício 09 - Clique aqui](https://github.com/lauraromerosantos/Exercicio09_Algoritmos_Programacao_II)
+
+## Aula 10 - Polimorfismo
+
+	▷ Polimorfismo => Permite que um mesmo nome represente vários componentes diferentes
+	▷ Na programação orientada ao objeto o polimorfismo permite que os objetos de diferentes tipos, cada um com seus comportamentos específicos, possam ser tratados a partir de uma classe, comum a todos as diferentes classes, mais abstrata.
+
+🎯 Link para o exercício da aula 10: [Exercício 10 - Clique aqui](https://github.com/lauraromerosantos/Exercicio10_Algoritmos_Programacao_II)
+
+    
