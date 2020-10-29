@@ -106,3 +106,31 @@ _MÉTODO_
 	• Uma subclasse herda métodos e atributos de sua superclasse; apesar disso, pode escrevê-los novamente para uma forma mais específica de representar o comportamento do método herdado.
 	
 🎯 Link para o exercício da aula 08: [Exercício 08 - Clique aqui](https://github.com/lauraromerosantos/Exercicio08_Algoritmos_Programacao_II)
+
+## Aula 09 - Encapsulamento
+	• O encapsulamento é uma forma de restringir o acesso ao comportamento interno de um objeto. 
+		○ Um objeto que precise da colaboração de outro para realizar alguma tarefa simplesmente envia uma mensagem a este último.
+		○ O método (maneira de fazer) que o objeto requisitado usa para realizar a tarefa não é conhecido dos objetos requisitantes.
+	• Na terminologia da orientação a objetos, diz-se que um objeto possui uma interface.
+		○ A interface de um objeto é o que ele conhece e o que ele sabe fazer, sem descrever como o objeto conhece ou faz.
+		○ A interface de um objeto define os serviços que ele pode realizar e consequentemente as mensagens que ele recebe.
+	• Encapsular é fundamental para que seu sistema seja suscetível a mudanças: não precisaremos mudar uma regra de negócio em vários lugares, mas sim em apenas um único lugar, já que essa regra está encapsulada.
+	
+_Modificadores de Acesso_
+
+	▷ Público (Public)
+		○ Qualquer classe tem acesso ao atributo ou método
+	▷ Protegido (Protected)
+		○ Apenas classes filhas (subclasses) tem acesso ao atributo ou método
+	▷ Privado (Private)
+		○ O atributo ou método só pode ser acessado dentro da própria classe
+_GETTERS_
+
+	▷ Nomeamos um método acessor com GET toda vez que este método for verificar algum campo ou atributo de uma classe.
+	▷ Como este método irá verificar um valor, ele sempre terá um retorno. Mas não terá nenhum argumento.
+
+_SETTERS_
+
+	▷ Nomeamos um método acessor com set toda vez que este método for modificar algum campo ou atributo de uma classe, ou seja, se não criarmos um método acessor set para algum atributo, isso quer dizer que este atributo não deve ser modificado.
+
+🎯 Link para o exercício da aula 09: [Exercício 09 - Clique aqui](https://github.com/lauraromerosantos/Exercicio09_Algoritmos_Programacao_II)
